@@ -206,6 +206,12 @@ By combining SQL-based analysis with Tableau visualization, this project transfo
 
 ## 👤 Author
 
-**Telco Customer Churn Analysis**
+Naveen Prasath
 
-Built using **SQL + Tableau** as a data analytics portfolio project.
+This project was created as part of my data analytics portfolio to demonstrate skills in:
+* SQL
+* Data Analysis
+* Data Visualization
+* Tableau
+* Business Intelligence
+* Customer Churn Analysis
